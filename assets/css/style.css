@@ -1,0 +1,23 @@
+.jumbotron {
+    margin: 5px 20px 20px 20px;
+    background-color: rgb(9, 9, 124);
+    border-radius: 5px;
+    font-family: 'Bevan', cursive;
+}
+
+.display-4 {
+    text-align: center;
+    color: white;   
+}
+.card {
+    margin: 5px 20px 20px 20px;
+}
+.row {
+    margin: 20px 5px;
+}
+.buttons {
+    display: inline;
+}
+.navbar {
+    margin
+}
