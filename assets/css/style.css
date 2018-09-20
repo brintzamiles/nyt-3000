@@ -1,9 +1,21 @@
+body {
+    background-image:url("../images/newspaper_bkgrd.jpg");
+}
+
+
 .jumbotron {
     margin: 5px 20px 20px 20px;
-    background-color: rgb(9, 9, 124);
+    background-color: white;
     border-radius: 5px;
     font-family: 'Bevan', cursive;
 }
+
+.shadow {
+  -webkit-box-shadow: 3px 3px 5px 6px #ccc;  /* Safari 3-4, iOS 4.0.2 - 4.2, Android 2.3+ */
+  -moz-box-shadow:    3px 3px 5px 6px #ccc;  /* Firefox 3.5 - 3.6 */
+  box-shadow:         3px 3px 5px 6px #ccc;  /* Opera 10.5, IE 9, Firefox 4+, Chrome 6+, iOS 5 */
+}
+
 
 .display-4 {
     text-align: center;
